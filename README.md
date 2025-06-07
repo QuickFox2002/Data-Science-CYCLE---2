@@ -1,20 +1,18 @@
-# Task 1: Predict Employee Attrition
+# Task 2: Text Summarization
 
 ## Objective
-Build a classification model to predict whether an employee will leave a company based on HR data and derive actionable retention strategies.
+Create a system that summarizes lengthy articles, blogs, or news into concise summaries.
 
 ## Dataset
-IBM HR Analytics Dataset
+CNN/Daily Mail Dataset
 
 ## Key Steps
-- Perform Exploratory Data Analysis (EDA) to identify key attrition factors.
-- Train classification models such as Random Forest and Logistic Regression.
-- Use SHAP or LIME to explain model predictions.
-- Provide actionable insights for HR retention strategies.
+- Preprocess textual data.
+- Implement extractive summarization using spaCy.
+- Implement abstractive summarization using pre-trained models (BERT, GPT) with HuggingFace.
+- Fine-tune models to improve summary quality.
+- Evaluate coherence on real-world articles.
 
 ## Outcome
-A classification model with explainable insights to reduce employee attrition.
-
-
-
+A summarization model generating concise summaries from long texts.
 
