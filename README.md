@@ -1,18 +1,18 @@
-# Task 2: Text Summarization
+# Task 3: Disease Diagnosis Prediction
 
 ## Objective
-Create a system that summarizes lengthy articles, blogs, or news into concise summaries.
+Build a model to predict the likelihood of diseases such as diabetes or heart disease from medical data.
 
 ## Dataset
-CNN/Daily Mail Dataset
+PIMA Diabetes Dataset or Heart Disease Dataset
 
 ## Key Steps
-- Preprocess textual data.
-- Implement extractive summarization using spaCy.
-- Implement abstractive summarization using pre-trained models (BERT, GPT) with HuggingFace.
-- Fine-tune models to improve summary quality.
-- Evaluate coherence on real-world articles.
+- Perform EDA to explore feature relationships.
+- Apply feature selection and scale data.
+- Train models such as Gradient Boosting, SVM, Neural Networks.
+- Evaluate with F1 Score and AUC-ROC.
+- Provide actionable healthcare insights.
 
 ## Outcome
-A summarization model generating concise summaries from long texts.
+A prediction model offering early disease detection and prevention insights.
 
