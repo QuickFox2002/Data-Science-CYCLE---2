@@ -1,18 +1,18 @@
-# Task 3: Disease Diagnosis Prediction
+# Task 4: Loan Default Prediction
 
 ## Objective
-Build a model to predict the likelihood of diseases such as diabetes or heart disease from medical data.
+Build a classification model to predict loan default risk using financial data.
 
 ## Dataset
-PIMA Diabetes Dataset or Heart Disease Dataset
+Lending Club Loan Dataset
 
 ## Key Steps
-- Perform EDA to explore feature relationships.
-- Apply feature selection and scale data.
-- Train models such as Gradient Boosting, SVM, Neural Networks.
-- Evaluate with F1 Score and AUC-ROC.
-- Provide actionable healthcare insights.
+- Preprocess data and handle missing values.
+- Address class imbalance with SMOTE.
+- Train classifiers such as LightGBM and SVM.
+- Evaluate using Precision, Recall, F1 Score.
+- Generate performance reports and recommendations.
 
 ## Outcome
-A prediction model offering early disease detection and prevention insights.
+A classification model to identify high-risk loan applicants, reducing default rates.
 

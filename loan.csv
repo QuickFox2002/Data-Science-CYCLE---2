@@ -1,0 +1,501 @@
+loan_amnt,int_rate,annual_inc,purpose,addr_state,dti,loan_status,emp_length
+5088,10.18,123983,debt_consolidation,FL,13.66,Charged Off,
+8361,17.24,111939,debt_consolidation,IL,20.53,Fully Paid,5 years
+33346,12.82,94285,home_improvement,FL,20.37,Fully Paid,3 years
+32217,23.83,111254,debt_consolidation,NY,22.83,Charged Off,7 years
+20478,7.1,36818,home_improvement,PA,18.52,Fully Paid,5 years
+10445,11.76,138411,home_improvement,IL,11.86,Fully Paid,< 1 year
+24342,24.75,84589,debt_consolidation,IL,2.07,Fully Paid,7 years
+25403,15.62,128695,home_improvement,PA,19.31,Charged Off,5 years
+5905,21.73,78301,home_improvement,PA,6.85,Fully Paid,10+ years
+33309,23.87,32688,credit_card,IL,3.61,Fully Paid,3 years
+12534,24.09,121384,small_business,CA,0.45,Fully Paid,2 years
+33341,15.29,39933,home_improvement,TX,5.55,Fully Paid,3 years
+26177,13.09,92468,debt_consolidation,TX,7.12,Charged Off,< 1 year
+27533,24.72,143795,home_improvement,NY,3.78,Charged Off,7 years
+29167,9.71,55973,small_business,TX,3.73,Fully Paid,< 1 year
+14175,14.95,139447,home_improvement,NY,4.51,Charged Off,< 1 year
+29965,23.57,132527,credit_card,IL,2.69,Fully Paid,10+ years
+6980,17.76,140242,small_business,PA,17.47,Charged Off,
+8229,5.11,70808,credit_card,CA,10.64,Fully Paid,3 years
+15054,16.31,122595,home_improvement,TX,18.27,Fully Paid,3 years
+16209,19.22,106795,debt_consolidation,FL,23.5,Fully Paid,1 year
+10684,10.13,62056,home_improvement,TX,17.69,Fully Paid,2 years
+17035,14.06,149189,credit_card,TX,6.93,Fully Paid,2 years
+30043,5.45,60587,home_improvement,IL,14.65,Fully Paid,1 year
+12557,16.69,125204,debt_consolidation,FL,15.03,Fully Paid,2 years
+7485,13.59,66193,debt_consolidation,PA,28.63,Fully Paid,
+22410,13.01,85523,small_business,NY,5.62,Fully Paid,1 year
+21566,17.66,35563,debt_consolidation,TX,25.6,Fully Paid,2 years
+20877,14.16,100911,credit_card,CA,21.52,Fully Paid,< 1 year
+32874,8.4,96265,credit_card,CA,29.16,Charged Off,2 years
+12569,9.3,115362,debt_consolidation,FL,12.77,Charged Off,3 years
+13042,5.88,105918,credit_card,NY,11.42,Fully Paid,2 years
+32903,17.19,68268,credit_card,IL,29.71,Fully Paid,
+34844,10.86,147503,small_business,NY,9.88,Fully Paid,3 years
+27463,20.04,60424,small_business,IL,20.87,Fully Paid,
+10550,13.97,85265,debt_consolidation,IL,21.68,Fully Paid,3 years
+8108,13.18,78950,home_improvement,TX,27.89,Charged Off,1 year
+19314,14.54,77331,home_improvement,IL,7.18,Charged Off,7 years
+20758,17.88,134583,debt_consolidation,CA,19.23,Charged Off,3 years
+6330,15.23,108821,small_business,FL,7.3,Fully Paid,
+16391,9.25,100188,credit_card,FL,1.1,Fully Paid,< 1 year
+28520,16.97,115316,small_business,CA,20.72,Fully Paid,5 years
+24329,23.94,92189,credit_card,PA,17.85,Fully Paid,
+11593,9.25,46528,debt_consolidation,CA,29.62,Charged Off,10+ years
+29689,24.56,76428,debt_consolidation,PA,13.28,Fully Paid,
+13232,24.06,133961,home_improvement,IL,7.81,Fully Paid,7 years
+10013,13.01,32743,debt_consolidation,PA,1.74,Fully Paid,< 1 year
+9168,11.23,50474,home_improvement,PA,26.84,Fully Paid,3 years
+8183,9.75,95571,small_business,IL,24.67,Fully Paid,< 1 year
+34779,24.91,141300,small_business,CA,4.65,Charged Off,1 year
+18958,7.26,80940,home_improvement,NY,28.15,Charged Off,1 year
+31296,16.54,81515,debt_consolidation,PA,6.22,Fully Paid,
+26118,8.79,119951,debt_consolidation,CA,28.53,Charged Off,2 years
+11773,15.46,112823,credit_card,IL,20.62,Fully Paid,1 year
+19557,12.17,122302,home_improvement,IL,10.22,Fully Paid,10+ years
+20716,7.76,123284,debt_consolidation,PA,3.11,Fully Paid,3 years
+33891,20.04,113166,small_business,PA,11.51,Fully Paid,10+ years
+14222,20.15,50704,debt_consolidation,PA,22.5,Charged Off,< 1 year
+16851,7.48,73310,home_improvement,PA,9.22,Fully Paid,10+ years
+26078,17.28,58138,debt_consolidation,PA,3.58,Charged Off,10+ years
+18571,16.77,32956,small_business,TX,6.8,Fully Paid,2 years
+20859,9.31,110980,small_business,NY,25.41,Charged Off,2 years
+31165,18.25,130510,debt_consolidation,FL,20.74,Fully Paid,2 years
+26898,12.48,61348,credit_card,NY,0.5,Fully Paid,2 years
+24175,21.86,58345,debt_consolidation,CA,7.71,Charged Off,1 year
+18623,21.83,74075,debt_consolidation,CA,1.22,Fully Paid,10+ years
+27961,21.83,62295,small_business,IL,23.8,Fully Paid,1 year
+8678,7.58,51876,home_improvement,CA,19.03,Charged Off,1 year
+23569,6.99,48933,debt_consolidation,TX,10.5,Fully Paid,3 years
+12536,20.23,119342,small_business,PA,28.75,Charged Off,
+31996,21.31,61026,small_business,PA,8.99,Charged Off,3 years
+18219,18.87,81184,credit_card,PA,11.26,Fully Paid,1 year
+14634,11.37,87207,home_improvement,PA,20.28,Fully Paid,
+19374,8.44,85321,home_improvement,FL,19.94,Fully Paid,2 years
+17118,21.04,112934,home_improvement,PA,14.54,Fully Paid,1 year
+34267,15.57,62182,credit_card,TX,0.21,Charged Off,3 years
+11018,14.42,72732,credit_card,FL,13.55,Fully Paid,7 years
+20653,13.32,124840,debt_consolidation,CA,12.86,Fully Paid,5 years
+28039,5.04,56181,home_improvement,PA,20.12,Fully Paid,< 1 year
+10503,21.3,67656,credit_card,FL,20.13,Fully Paid,10+ years
+28707,14.17,41295,home_improvement,PA,24.34,Fully Paid,< 1 year
+21819,15.92,106294,home_improvement,IL,0.49,Fully Paid,
+23438,21.84,57035,small_business,TX,19.48,Fully Paid,3 years
+30280,14.65,56909,credit_card,FL,6.23,Charged Off,
+16898,5.81,72435,small_business,PA,15.46,Fully Paid,1 year
+17635,22.89,37927,small_business,CA,0.93,Fully Paid,3 years
+26151,18.31,94736,credit_card,TX,10.8,Fully Paid,7 years
+6715,8.7,146668,debt_consolidation,TX,22.37,Charged Off,10+ years
+30349,14.08,130217,small_business,PA,5.62,Charged Off,1 year
+22282,24.17,67972,small_business,PA,0.19,Charged Off,
+22399,7.48,119011,home_improvement,IL,21.53,Charged Off,7 years
+7908,23.85,98013,home_improvement,NY,29.39,Fully Paid,< 1 year
+24316,20.64,55652,credit_card,CA,10.12,Charged Off,< 1 year
+26928,15.86,121246,small_business,IL,20.84,Fully Paid,3 years
+20114,22.25,43270,debt_consolidation,IL,3.27,Fully Paid,1 year
+34541,14.58,133463,credit_card,TX,12.2,Charged Off,5 years
+10559,6.58,47016,debt_consolidation,CA,25.03,Fully Paid,1 year
+31497,7.67,42023,credit_card,TX,27.66,Charged Off,2 years
+26815,11.87,71796,debt_consolidation,CA,17.84,Fully Paid,2 years
+31681,12.22,93176,credit_card,CA,22.19,Charged Off,1 year
+33325,18.35,102694,credit_card,FL,13.12,Fully Paid,
+21175,19.86,67612,small_business,NY,22.77,Charged Off,10+ years
+25244,9.02,144158,debt_consolidation,IL,16.15,Charged Off,10+ years
+6142,18.23,61328,home_improvement,FL,13.14,Fully Paid,5 years
+33403,5.62,58050,home_improvement,FL,13.45,Fully Paid,2 years
+20088,21.79,109662,credit_card,CA,12.51,Charged Off,1 year
+28362,21.99,121949,home_improvement,FL,16.66,Fully Paid,5 years
+34920,6.29,104434,debt_consolidation,PA,19.36,Fully Paid,2 years
+32495,15.68,36301,debt_consolidation,IL,3.52,Fully Paid,1 year
+9206,7.97,102834,home_improvement,PA,0.64,Charged Off,5 years
+12427,5.32,75579,home_improvement,FL,1.38,Fully Paid,5 years
+32448,13.56,47388,debt_consolidation,TX,0.58,Charged Off,2 years
+22163,22.02,62655,credit_card,TX,16.09,Fully Paid,5 years
+34431,7.65,84868,home_improvement,NY,28.77,Fully Paid,5 years
+24003,6.62,42138,debt_consolidation,IL,21.5,Charged Off,
+9456,11.22,127212,small_business,TX,19.08,Charged Off,2 years
+9186,12.47,140359,home_improvement,CA,16.71,Charged Off,< 1 year
+21157,5.31,71194,credit_card,PA,18.59,Charged Off,2 years
+7843,13.71,139942,credit_card,NY,29.56,Fully Paid,3 years
+16464,12.06,35109,home_improvement,NY,9.36,Fully Paid,7 years
+24014,13.41,35450,small_business,NY,6.54,Fully Paid,3 years
+13638,20.05,119597,credit_card,CA,9.97,Fully Paid,2 years
+13302,16.27,66027,debt_consolidation,IL,13.2,Charged Off,5 years
+29879,9.67,31382,debt_consolidation,TX,18.35,Charged Off,7 years
+26368,22.83,148327,home_improvement,NY,2.7,Charged Off,5 years
+25218,10.47,112174,small_business,PA,24.15,Fully Paid,2 years
+14847,22.11,106610,home_improvement,NY,6.17,Charged Off,< 1 year
+11199,13.99,34578,debt_consolidation,FL,5.98,Fully Paid,7 years
+5688,22.83,113576,credit_card,PA,15.11,Fully Paid,7 years
+32609,15.52,123334,credit_card,TX,26.48,Fully Paid,2 years
+7510,17.49,92221,credit_card,PA,5.19,Fully Paid,2 years
+31996,24.01,127085,home_improvement,FL,6.82,Fully Paid,10+ years
+23205,11.83,74408,credit_card,IL,0.51,Fully Paid,2 years
+13747,10.81,49460,debt_consolidation,TX,3.23,Fully Paid,5 years
+30920,6.74,98990,small_business,FL,22.28,Fully Paid,2 years
+16186,6.76,40054,home_improvement,IL,19.97,Fully Paid,7 years
+14517,17.94,70721,small_business,NY,3.81,Fully Paid,2 years
+24734,8.97,105135,home_improvement,FL,20.56,Fully Paid,10+ years
+20367,14.73,105934,debt_consolidation,TX,25.49,Charged Off,< 1 year
+32162,10.51,83203,small_business,IL,26.39,Charged Off,10+ years
+6197,16.37,144339,small_business,TX,20.83,Fully Paid,10+ years
+12588,20.29,103993,credit_card,NY,3.01,Charged Off,2 years
+20830,15.84,64455,debt_consolidation,FL,12.2,Fully Paid,10+ years
+31658,16.96,115458,credit_card,IL,19.09,Fully Paid,10+ years
+29709,17.38,74127,credit_card,FL,7.46,Fully Paid,1 year
+14177,9.63,77061,small_business,CA,7.56,Fully Paid,< 1 year
+25223,19.84,106276,debt_consolidation,PA,18.82,Charged Off,1 year
+11677,20.5,112231,debt_consolidation,FL,22.31,Fully Paid,2 years
+19271,5.05,107058,small_business,NY,25.93,Charged Off,1 year
+6842,7.6,68890,small_business,CA,14.21,Charged Off,3 years
+17802,10.51,92920,home_improvement,PA,26.71,Fully Paid,7 years
+21576,21.07,89726,home_improvement,FL,9.18,Fully Paid,3 years
+28919,6.18,32745,home_improvement,PA,6.11,Fully Paid,1 year
+12261,10.81,135107,debt_consolidation,NY,18.9,Fully Paid,3 years
+6996,7.93,101459,debt_consolidation,TX,15.96,Fully Paid,< 1 year
+26655,19.98,129430,debt_consolidation,NY,25.87,Fully Paid,< 1 year
+7665,21.0,85890,debt_consolidation,PA,19.02,Fully Paid,1 year
+19896,8.29,102239,debt_consolidation,IL,17.77,Fully Paid,10+ years
+21391,23.75,96760,small_business,IL,21.62,Fully Paid,1 year
+22345,8.94,57426,small_business,FL,15.01,Charged Off,3 years
+17381,5.18,86917,home_improvement,CA,4.5,Charged Off,
+13817,8.28,60056,home_improvement,PA,14.58,Fully Paid,< 1 year
+23062,7.55,36451,small_business,IL,4.39,Fully Paid,5 years
+33896,13.88,107267,debt_consolidation,CA,10.53,Fully Paid,10+ years
+15691,16.46,115508,home_improvement,TX,16.1,Fully Paid,1 year
+20311,5.7,37338,credit_card,TX,28.85,Fully Paid,< 1 year
+11431,5.9,108901,debt_consolidation,CA,0.54,Fully Paid,< 1 year
+6245,22.97,83268,credit_card,PA,17.05,Fully Paid,2 years
+16269,24.71,53997,home_improvement,CA,28.43,Fully Paid,7 years
+31096,5.61,51605,debt_consolidation,TX,15.03,Fully Paid,3 years
+32850,15.52,36758,small_business,NY,25.2,Fully Paid,< 1 year
+20626,12.14,41080,home_improvement,CA,23.83,Charged Off,5 years
+13265,7.83,95617,home_improvement,TX,1.46,Fully Paid,
+25808,13.17,37492,debt_consolidation,TX,25.54,Fully Paid,5 years
+11395,7.42,148672,home_improvement,IL,15.43,Charged Off,2 years
+18911,11.37,123238,home_improvement,FL,20.17,Fully Paid,3 years
+22105,23.98,63902,small_business,IL,16.58,Charged Off,2 years
+30449,5.53,55439,home_improvement,NY,25.84,Fully Paid,10+ years
+21324,5.92,108751,credit_card,TX,24.74,Fully Paid,7 years
+7279,15.99,32248,home_improvement,FL,21.8,Fully Paid,2 years
+5644,19.33,143883,credit_card,PA,25.87,Fully Paid,10+ years
+24867,10.76,70934,debt_consolidation,NY,23.79,Charged Off,2 years
+33587,6.8,83647,home_improvement,NY,6.05,Charged Off,
+20501,9.59,114726,credit_card,PA,1.73,Charged Off,10+ years
+9709,6.09,128554,home_improvement,CA,2.74,Fully Paid,5 years
+33728,23.06,88081,debt_consolidation,PA,25.14,Fully Paid,5 years
+31976,11.07,101187,home_improvement,FL,5.14,Fully Paid,5 years
+13317,18.72,68101,home_improvement,TX,18.55,Charged Off,< 1 year
+26252,7.77,55057,credit_card,TX,17.95,Fully Paid,3 years
+7480,12.5,84697,debt_consolidation,IL,3.21,Fully Paid,< 1 year
+31972,7.78,53826,debt_consolidation,IL,15.87,Charged Off,< 1 year
+14515,13.21,32234,debt_consolidation,FL,9.87,Fully Paid,
+13904,22.67,144458,credit_card,PA,16.06,Fully Paid,10+ years
+6860,19.89,37091,debt_consolidation,TX,4.9,Fully Paid,7 years
+22905,6.04,42134,home_improvement,TX,11.44,Fully Paid,3 years
+22582,5.73,75819,debt_consolidation,FL,28.65,Fully Paid,10+ years
+6270,5.81,44075,home_improvement,PA,6.23,Charged Off,7 years
+9978,14.79,144360,credit_card,NY,1.69,Fully Paid,
+19294,9.34,31480,small_business,NY,6.43,Charged Off,
+24303,10.21,131599,small_business,CA,16.02,Fully Paid,5 years
+18827,12.54,33095,small_business,FL,19.09,Charged Off,5 years
+17054,16.35,93776,credit_card,IL,7.88,Fully Paid,1 year
+34999,14.72,94880,home_improvement,FL,2.32,Fully Paid,3 years
+21962,16.32,137132,home_improvement,TX,3.1,Fully Paid,7 years
+16079,22.23,149902,credit_card,CA,4.28,Fully Paid,5 years
+22620,12.46,136935,debt_consolidation,FL,3.65,Charged Off,1 year
+11431,23.95,144576,debt_consolidation,PA,19.14,Charged Off,7 years
+17687,14.47,75478,credit_card,PA,13.97,Charged Off,5 years
+28310,22.31,37962,debt_consolidation,NY,5.62,Fully Paid,5 years
+11575,11.45,101491,credit_card,FL,18.19,Fully Paid,10+ years
+11709,8.34,70457,small_business,TX,4.79,Fully Paid,1 year
+33394,13.82,50895,credit_card,TX,21.74,Fully Paid,5 years
+8942,21.61,121557,credit_card,FL,8.66,Fully Paid,< 1 year
+25455,16.92,132404,small_business,PA,14.1,Fully Paid,3 years
+17992,9.2,87430,home_improvement,CA,19.0,Fully Paid,
+28304,19.25,148428,debt_consolidation,CA,25.39,Charged Off,< 1 year
+8140,10.7,99799,credit_card,FL,14.34,Fully Paid,3 years
+32263,24.37,58456,small_business,CA,21.24,Charged Off,
+11794,14.48,127315,credit_card,NY,10.51,Fully Paid,2 years
+18540,9.47,60215,credit_card,CA,0.6,Charged Off,< 1 year
+21202,14.42,117878,home_improvement,CA,1.8,Fully Paid,3 years
+31996,5.45,126828,home_improvement,CA,24.08,Fully Paid,3 years
+21714,5.49,140335,credit_card,PA,22.55,Charged Off,1 year
+8882,24.73,65498,debt_consolidation,FL,18.06,Fully Paid,10+ years
+9913,8.46,132321,credit_card,IL,12.28,Charged Off,1 year
+18271,18.32,61769,debt_consolidation,CA,9.4,Charged Off,5 years
+26427,8.85,129336,credit_card,PA,0.09,Fully Paid,< 1 year
+9431,20.72,116161,debt_consolidation,IL,27.21,Fully Paid,
+11571,8.62,81587,credit_card,CA,2.1,Fully Paid,10+ years
+30926,7.75,66901,debt_consolidation,IL,11.38,Fully Paid,
+8108,10.58,63401,small_business,PA,14.12,Charged Off,5 years
+22814,16.49,141019,credit_card,PA,12.02,Charged Off,1 year
+11219,7.29,136518,debt_consolidation,TX,27.97,Fully Paid,
+28538,18.65,74445,home_improvement,FL,28.19,Charged Off,3 years
+20627,21.12,115908,small_business,PA,9.75,Fully Paid,5 years
+15708,22.13,62930,small_business,FL,6.73,Fully Paid,5 years
+22321,17.51,102678,home_improvement,PA,13.19,Fully Paid,< 1 year
+18249,14.79,55439,home_improvement,CA,20.41,Fully Paid,2 years
+17241,5.85,119656,small_business,CA,11.36,Fully Paid,5 years
+28786,22.15,46625,small_business,PA,22.85,Fully Paid,7 years
+29201,10.03,75691,small_business,TX,12.44,Charged Off,1 year
+16001,14.76,115424,debt_consolidation,CA,6.47,Fully Paid,3 years
+32847,9.36,83352,debt_consolidation,PA,5.93,Charged Off,3 years
+5699,10.69,149660,debt_consolidation,FL,2.91,Fully Paid,< 1 year
+23701,5.78,100135,home_improvement,PA,18.37,Charged Off,3 years
+33712,20.69,96110,small_business,NY,5.64,Charged Off,
+11433,12.15,34405,home_improvement,TX,12.16,Fully Paid,< 1 year
+15117,5.77,70580,debt_consolidation,FL,8.56,Charged Off,7 years
+11816,14.26,100811,credit_card,FL,21.18,Charged Off,
+12063,11.2,80455,small_business,TX,4.35,Fully Paid,2 years
+32272,18.2,52417,debt_consolidation,FL,12.61,Charged Off,2 years
+28758,6.56,124656,small_business,IL,26.11,Fully Paid,10+ years
+6300,11.66,98139,credit_card,FL,10.33,Fully Paid,< 1 year
+28110,17.63,134244,home_improvement,PA,1.71,Charged Off,2 years
+31002,15.56,93613,small_business,CA,21.85,Fully Paid,7 years
+18432,17.32,112097,debt_consolidation,NY,17.76,Fully Paid,3 years
+7434,14.35,93733,credit_card,FL,25.18,Fully Paid,3 years
+12872,21.35,109298,credit_card,FL,3.14,Fully Paid,3 years
+10218,10.59,113094,home_improvement,IL,7.46,Fully Paid,5 years
+20691,6.44,137489,credit_card,CA,15.78,Fully Paid,7 years
+26111,16.82,61708,home_improvement,PA,22.12,Fully Paid,< 1 year
+24471,15.8,98641,credit_card,FL,21.63,Fully Paid,3 years
+6903,15.17,75748,small_business,IL,7.86,Charged Off,1 year
+14731,18.72,61648,debt_consolidation,TX,19.91,Fully Paid,< 1 year
+9084,5.86,80852,credit_card,FL,23.35,Fully Paid,3 years
+13064,20.65,115816,small_business,TX,11.33,Charged Off,1 year
+20112,12.02,87377,credit_card,FL,12.4,Fully Paid,2 years
+31969,17.2,79260,debt_consolidation,IL,21.75,Fully Paid,
+13306,8.99,48542,debt_consolidation,PA,21.26,Fully Paid,10+ years
+5758,14.47,76140,credit_card,CA,12.51,Fully Paid,1 year
+13384,24.34,91205,debt_consolidation,IL,25.27,Fully Paid,1 year
+34131,17.37,69808,small_business,PA,12.75,Fully Paid,< 1 year
+12571,18.03,123714,credit_card,FL,24.64,Charged Off,
+18659,6.46,70284,small_business,NY,13.61,Fully Paid,7 years
+25643,6.52,52753,small_business,CA,8.58,Charged Off,< 1 year
+30019,24.75,121657,home_improvement,CA,3.39,Fully Paid,5 years
+5939,16.61,98517,credit_card,IL,21.65,Charged Off,7 years
+26653,23.49,148751,debt_consolidation,PA,11.38,Charged Off,
+15201,10.66,138414,debt_consolidation,CA,0.68,Fully Paid,10+ years
+20477,11.23,67786,home_improvement,FL,22.26,Fully Paid,
+13791,6.8,96158,debt_consolidation,FL,14.42,Fully Paid,< 1 year
+10449,12.95,51028,home_improvement,IL,5.11,Charged Off,2 years
+32563,22.07,87490,credit_card,TX,12.55,Fully Paid,2 years
+32251,16.78,145146,credit_card,CA,1.14,Charged Off,7 years
+20309,7.65,64732,debt_consolidation,TX,2.79,Fully Paid,7 years
+10547,8.04,54243,debt_consolidation,IL,26.03,Fully Paid,7 years
+25304,21.31,59538,credit_card,PA,8.99,Charged Off,1 year
+17024,19.98,43865,small_business,PA,22.63,Charged Off,2 years
+22723,16.94,118921,small_business,PA,12.35,Fully Paid,10+ years
+25142,11.84,114380,debt_consolidation,FL,10.86,Fully Paid,10+ years
+24742,10.77,49859,debt_consolidation,CA,10.98,Fully Paid,< 1 year
+26930,11.8,136028,home_improvement,IL,6.86,Charged Off,3 years
+28040,14.62,86872,small_business,FL,16.51,Fully Paid,5 years
+30841,13.86,110339,home_improvement,PA,29.43,Fully Paid,3 years
+15333,17.65,63387,debt_consolidation,IL,17.02,Fully Paid,7 years
+32021,18.52,133284,home_improvement,NY,3.55,Fully Paid,7 years
+17854,23.03,89737,debt_consolidation,IL,21.12,Fully Paid,1 year
+30521,14.33,78964,small_business,FL,22.55,Charged Off,
+28724,12.94,99711,home_improvement,CA,26.2,Fully Paid,3 years
+33244,17.9,146420,home_improvement,NY,29.14,Fully Paid,2 years
+31363,7.91,99459,debt_consolidation,FL,3.92,Charged Off,2 years
+22435,23.36,36570,small_business,TX,17.24,Charged Off,10+ years
+16167,6.54,136266,small_business,FL,7.0,Fully Paid,1 year
+12575,12.97,140598,credit_card,FL,8.5,Fully Paid,5 years
+14983,15.4,31570,credit_card,CA,6.97,Fully Paid,
+10743,12.93,61742,small_business,CA,9.42,Fully Paid,
+22093,21.54,148732,home_improvement,IL,0.09,Fully Paid,
+30050,20.35,107210,credit_card,CA,11.13,Fully Paid,
+22623,20.56,138993,credit_card,FL,19.3,Fully Paid,
+27257,18.08,109285,home_improvement,PA,10.68,Fully Paid,7 years
+11773,13.2,147787,debt_consolidation,IL,2.97,Fully Paid,< 1 year
+31002,23.63,94258,credit_card,PA,25.35,Fully Paid,1 year
+34874,19.11,87808,credit_card,TX,16.44,Charged Off,5 years
+20339,11.91,74543,home_improvement,CA,21.49,Fully Paid,< 1 year
+22303,20.82,137941,home_improvement,TX,3.91,Fully Paid,2 years
+12381,23.81,78622,debt_consolidation,NY,4.69,Fully Paid,2 years
+31597,20.03,50150,small_business,IL,1.67,Fully Paid,7 years
+15304,24.09,119952,small_business,IL,4.59,Fully Paid,10+ years
+30259,13.9,64198,home_improvement,IL,18.33,Fully Paid,1 year
+10582,10.81,144108,small_business,NY,1.03,Fully Paid,2 years
+15642,13.67,55841,credit_card,CA,22.73,Fully Paid,< 1 year
+27057,6.32,139873,small_business,IL,18.21,Charged Off,5 years
+11434,5.14,118412,credit_card,CA,12.05,Charged Off,7 years
+14538,11.64,52569,debt_consolidation,TX,24.8,Fully Paid,5 years
+20328,8.88,113183,credit_card,CA,28.19,Charged Off,
+15372,20.84,136553,home_improvement,CA,24.3,Charged Off,7 years
+24139,19.79,122190,home_improvement,FL,8.8,Fully Paid,3 years
+32344,22.12,135359,small_business,TX,2.76,Charged Off,1 year
+7809,24.37,77790,debt_consolidation,PA,21.92,Fully Paid,3 years
+11997,9.08,78128,home_improvement,PA,11.13,Fully Paid,1 year
+30847,13.18,40217,home_improvement,CA,29.43,Fully Paid,10+ years
+20188,7.24,43283,credit_card,NY,17.72,Fully Paid,10+ years
+14051,24.36,106096,home_improvement,PA,23.57,Fully Paid,7 years
+22242,21.82,54611,credit_card,PA,10.21,Fully Paid,1 year
+23443,10.14,141407,home_improvement,NY,8.48,Charged Off,7 years
+10428,22.25,110643,home_improvement,PA,24.32,Charged Off,
+18710,15.64,85919,small_business,FL,25.19,Fully Paid,7 years
+5606,22.45,68258,home_improvement,FL,26.73,Fully Paid,10+ years
+13327,13.69,138309,credit_card,TX,10.16,Fully Paid,2 years
+6597,8.74,46141,credit_card,NY,1.54,Charged Off,10+ years
+5349,22.45,82764,debt_consolidation,IL,12.58,Fully Paid,2 years
+21133,6.46,46968,home_improvement,IL,10.03,Charged Off,7 years
+19903,15.36,127490,small_business,IL,18.43,Charged Off,10+ years
+24375,5.87,137494,home_improvement,FL,22.13,Fully Paid,< 1 year
+11655,21.45,52803,credit_card,TX,12.89,Fully Paid,10+ years
+30155,19.03,58167,debt_consolidation,CA,11.65,Fully Paid,< 1 year
+25103,8.8,108596,small_business,TX,16.76,Charged Off,
+23381,19.71,124371,debt_consolidation,NY,25.22,Fully Paid,
+7389,7.77,140332,home_improvement,TX,5.81,Fully Paid,7 years
+6638,8.41,74500,credit_card,FL,27.76,Charged Off,7 years
+22563,22.77,80633,small_business,TX,21.22,Charged Off,
+25454,22.63,66650,home_improvement,PA,26.71,Charged Off,7 years
+19172,9.82,67648,debt_consolidation,PA,13.15,Charged Off,10+ years
+17215,10.41,74453,debt_consolidation,CA,8.85,Charged Off,< 1 year
+26611,13.25,44394,credit_card,IL,6.24,Fully Paid,10+ years
+8396,20.37,117470,debt_consolidation,IL,5.57,Charged Off,10+ years
+6930,14.87,84699,home_improvement,TX,26.15,Charged Off,3 years
+15983,12.02,145389,small_business,IL,6.92,Fully Paid,
+5088,10.41,90627,credit_card,TX,29.75,Fully Paid,5 years
+31079,17.23,81962,credit_card,NY,11.1,Fully Paid,
+17150,11.97,99534,small_business,PA,23.46,Fully Paid,< 1 year
+6313,9.74,144152,credit_card,TX,11.9,Fully Paid,5 years
+18775,10.2,36481,small_business,IL,11.87,Charged Off,< 1 year
+8508,6.68,42986,small_business,NY,7.72,Fully Paid,7 years
+27658,23.48,100838,home_improvement,TX,15.57,Fully Paid,
+12061,10.57,84531,home_improvement,NY,3.81,Charged Off,3 years
+12736,24.45,90879,home_improvement,CA,10.14,Charged Off,7 years
+23684,9.87,144183,small_business,CA,4.96,Charged Off,10+ years
+20676,17.97,105860,credit_card,FL,4.43,Charged Off,1 year
+15943,22.78,122267,home_improvement,FL,18.21,Fully Paid,3 years
+21512,24.16,106014,debt_consolidation,NY,15.26,Fully Paid,2 years
+21110,14.66,31321,credit_card,IL,12.25,Charged Off,< 1 year
+24369,19.13,56023,small_business,CA,26.81,Charged Off,2 years
+5879,23.14,107486,home_improvement,CA,24.36,Charged Off,7 years
+6860,8.4,134215,credit_card,PA,0.56,Charged Off,7 years
+14441,10.47,125995,small_business,NY,7.64,Fully Paid,5 years
+21646,7.08,91105,small_business,NY,12.92,Fully Paid,3 years
+17782,7.55,32768,home_improvement,FL,7.58,Charged Off,< 1 year
+19861,13.94,100347,home_improvement,PA,1.14,Fully Paid,< 1 year
+34566,23.49,58876,debt_consolidation,TX,27.07,Fully Paid,3 years
+33504,23.7,136954,debt_consolidation,CA,1.92,Fully Paid,3 years
+27854,19.8,142870,credit_card,TX,15.96,Charged Off,2 years
+24728,9.77,147853,credit_card,NY,18.29,Charged Off,< 1 year
+34246,14.32,59767,debt_consolidation,NY,9.84,Fully Paid,7 years
+16762,16.35,105293,small_business,IL,16.39,Fully Paid,2 years
+14047,11.12,144835,small_business,PA,18.42,Fully Paid,5 years
+9286,11.91,59332,small_business,NY,13.26,Fully Paid,3 years
+5737,14.14,76282,credit_card,NY,23.83,Fully Paid,3 years
+27119,9.1,53417,small_business,FL,9.92,Fully Paid,
+8363,9.64,49948,home_improvement,IL,1.2,Fully Paid,< 1 year
+30804,16.7,130056,credit_card,PA,4.08,Fully Paid,< 1 year
+27956,16.87,108966,small_business,TX,20.89,Charged Off,1 year
+5430,21.34,117750,small_business,IL,21.44,Fully Paid,1 year
+25412,8.22,37052,credit_card,FL,21.15,Fully Paid,3 years
+21889,11.71,141086,small_business,CA,20.01,Fully Paid,5 years
+22728,12.97,58408,debt_consolidation,FL,0.33,Fully Paid,5 years
+11522,13.11,33663,small_business,CA,1.04,Fully Paid,3 years
+26563,19.5,87144,debt_consolidation,NY,26.16,Charged Off,5 years
+8143,7.39,138136,small_business,PA,29.16,Fully Paid,10+ years
+6372,22.78,63659,debt_consolidation,CA,23.87,Charged Off,
+13740,6.22,55296,small_business,CA,24.57,Fully Paid,
+17638,6.76,34673,small_business,IL,20.26,Fully Paid,
+9456,16.13,86643,credit_card,TX,3.88,Fully Paid,10+ years
+27958,10.69,48438,small_business,IL,20.84,Fully Paid,< 1 year
+24392,10.93,49600,credit_card,TX,23.56,Fully Paid,5 years
+6416,5.82,104030,debt_consolidation,CA,12.43,Fully Paid,1 year
+13753,21.83,55195,home_improvement,TX,14.42,Charged Off,10+ years
+18310,12.98,95100,home_improvement,NY,5.05,Fully Paid,7 years
+27870,20.98,135778,home_improvement,NY,6.76,Charged Off,
+33513,17.74,61206,home_improvement,TX,11.49,Fully Paid,7 years
+18390,18.96,116822,small_business,NY,20.14,Fully Paid,10+ years
+24045,19.81,110886,credit_card,PA,17.58,Fully Paid,3 years
+7791,18.85,41453,debt_consolidation,PA,22.75,Fully Paid,3 years
+16813,22.19,143056,home_improvement,FL,4.88,Charged Off,5 years
+9635,5.6,69331,credit_card,IL,12.18,Fully Paid,7 years
+11194,7.58,100467,small_business,FL,27.35,Fully Paid,10+ years
+28894,8.59,34433,credit_card,PA,9.09,Charged Off,10+ years
+15733,15.62,90989,credit_card,FL,24.35,Fully Paid,5 years
+9132,8.7,88434,small_business,CA,11.11,Fully Paid,10+ years
+26710,8.58,115283,credit_card,NY,8.2,Fully Paid,10+ years
+33252,6.64,145636,credit_card,PA,17.38,Fully Paid,
+26934,24.25,58304,credit_card,TX,4.84,Fully Paid,< 1 year
+13682,23.23,64777,debt_consolidation,IL,27.18,Fully Paid,3 years
+11162,7.54,74398,credit_card,TX,29.04,Charged Off,7 years
+8028,10.49,145316,small_business,CA,23.27,Charged Off,2 years
+17023,12.42,81543,credit_card,FL,16.2,Fully Paid,< 1 year
+23378,13.54,118950,small_business,TX,25.2,Charged Off,3 years
+32270,9.24,45275,small_business,CA,26.07,Charged Off,1 year
+30496,16.87,92278,credit_card,PA,3.22,Charged Off,10+ years
+32966,13.36,75179,home_improvement,NY,0.54,Charged Off,7 years
+11311,11.7,108395,small_business,CA,5.52,Charged Off,3 years
+10156,11.29,105233,home_improvement,NY,6.96,Fully Paid,2 years
+6935,23.85,70834,small_business,PA,6.61,Fully Paid,
+30302,7.68,120391,debt_consolidation,FL,19.07,Fully Paid,10+ years
+10586,13.42,88004,debt_consolidation,PA,19.9,Charged Off,2 years
+28374,10.37,51098,debt_consolidation,TX,1.22,Fully Paid,< 1 year
+28442,15.61,55829,home_improvement,TX,23.81,Fully Paid,3 years
+20429,23.61,116141,home_improvement,CA,6.06,Fully Paid,7 years
+15795,7.82,88477,credit_card,FL,1.37,Fully Paid,2 years
+29739,16.14,119405,credit_card,TX,5.49,Fully Paid,3 years
+5687,15.11,71619,home_improvement,FL,23.94,Charged Off,
+28557,21.73,101972,credit_card,FL,14.15,Fully Paid,2 years
+15396,14.75,69542,home_improvement,CA,17.07,Fully Paid,2 years
+5679,12.47,76867,credit_card,NY,9.56,Fully Paid,5 years
+9418,8.68,62654,small_business,FL,29.24,Fully Paid,10+ years
+32880,9.47,93904,home_improvement,TX,0.1,Charged Off,1 year
+14627,9.36,72005,credit_card,TX,12.17,Fully Paid,5 years
+5438,10.64,103031,home_improvement,PA,23.77,Fully Paid,7 years
+26896,5.11,33207,credit_card,IL,0.01,Fully Paid,3 years
+17718,16.8,99866,home_improvement,NY,25.42,Fully Paid,
+32280,10.92,139507,credit_card,TX,13.74,Fully Paid,5 years
+22296,14.42,43246,home_improvement,IL,22.5,Fully Paid,2 years
+29612,7.9,106648,small_business,TX,3.94,Fully Paid,7 years
+11817,14.12,73101,credit_card,PA,21.0,Charged Off,2 years
+31046,8.02,119553,small_business,CA,20.96,Fully Paid,7 years
+20116,10.77,127962,credit_card,TX,27.85,Fully Paid,7 years
+14249,17.86,69411,debt_consolidation,FL,23.72,Fully Paid,7 years
+24983,13.36,58533,small_business,PA,29.98,Charged Off,
+28042,15.03,46658,home_improvement,TX,18.54,Fully Paid,7 years
+23754,21.56,96253,debt_consolidation,CA,23.47,Fully Paid,3 years
+17296,19.37,142221,small_business,IL,5.34,Fully Paid,7 years
+8389,6.01,62078,small_business,PA,18.53,Fully Paid,7 years
+23865,10.28,103390,debt_consolidation,TX,25.88,Fully Paid,7 years
+24871,10.61,90123,credit_card,CA,5.38,Charged Off,2 years
+25902,21.4,31563,small_business,TX,29.58,Fully Paid,7 years
+22967,8.27,72670,credit_card,NY,8.02,Fully Paid,5 years
+11133,17.56,90649,debt_consolidation,FL,25.05,Fully Paid,5 years
+16036,15.82,36517,home_improvement,NY,13.68,Fully Paid,5 years
+10645,5.59,99429,debt_consolidation,IL,25.73,Fully Paid,
+25853,14.19,68233,small_business,TX,0.43,Fully Paid,1 year
+33311,9.0,82832,home_improvement,NY,14.04,Fully Paid,3 years
+6095,22.11,111539,small_business,PA,28.81,Fully Paid,5 years
+33183,23.2,106577,small_business,TX,16.21,Fully Paid,< 1 year
+30645,21.17,39907,small_business,IL,28.53,Charged Off,2 years
+28884,16.8,104192,small_business,NY,6.93,Fully Paid,3 years
+9236,5.35,106559,small_business,TX,12.23,Fully Paid,< 1 year
+5020,22.89,98413,debt_consolidation,FL,16.43,Charged Off,5 years
+21974,11.05,44217,debt_consolidation,FL,14.22,Fully Paid,1 year
+17989,13.45,113236,credit_card,TX,11.6,Fully Paid,5 years
+19563,23.29,135070,small_business,TX,26.71,Charged Off,5 years
+18274,24.62,139617,debt_consolidation,NY,27.49,Charged Off,7 years
+16159,16.4,139015,home_improvement,CA,26.58,Fully Paid,
+6386,8.11,121068,credit_card,TX,26.89,Fully Paid,2 years
+18254,11.85,47158,home_improvement,PA,29.42,Fully Paid,1 year
+31890,16.85,122965,home_improvement,PA,2.33,Charged Off,< 1 year
+26640,12.18,146585,small_business,CA,24.59,Fully Paid,5 years
+11774,17.43,124327,home_improvement,NY,3.97,Charged Off,10+ years
+11034,5.8,35015,home_improvement,FL,16.85,Fully Paid,< 1 year
+29713,7.57,40776,small_business,FL,27.93,Fully Paid,
+9896,22.62,148609,home_improvement,PA,15.28,Fully Paid,
+28083,21.77,77107,credit_card,IL,12.39,Fully Paid,1 year
+20701,22.52,31576,debt_consolidation,CA,24.19,Fully Paid,1 year
+22301,19.08,147130,credit_card,PA,9.0,Fully Paid,5 years
+17521,17.17,106736,small_business,CA,19.98,Fully Paid,5 years
+34868,14.23,113540,small_business,CA,15.45,Fully Paid,10+ years
+19507,14.45,129987,small_business,TX,3.37,Fully Paid,2 years
+8079,7.7,142419,debt_consolidation,FL,12.5,Fully Paid,10+ years
+14983,18.05,57504,small_business,IL,12.54,Charged Off,< 1 year
+13251,11.76,123696,home_improvement,NY,25.48,Charged Off,3 years
+9841,5.74,78281,credit_card,IL,2.74,Fully Paid,
